@@ -2,7 +2,7 @@ import React from 'react';
 import { Box } from '@mui/material';
 import { useDrop } from 'react-dnd';
 
-import Grid from '../Grid';
+import Grid from './Grid.tsx';
 import Module from './Module';
 import { GUTTER_SIZE } from '../constants';
 import ModuleInterface from '../types/ModuleInterface';
