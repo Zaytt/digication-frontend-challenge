@@ -37,7 +37,7 @@ Animation GIF
 
 ## Technical Requirements
 
-You have to use TypeScript 4.4 and React Hooks.
+You have to use TypeScript and React Hooks.
 For DnD, you can use HTML Drag and Drop API or any low-level DnD library (e.g [React DnD](https://react-dnd.github.io/react-dnd/)) but don't use any ready-to-use library such as [React Grid Layout](https://github.com/react-grid-layout/react-grid-layout).
 
 ## Final Notes
