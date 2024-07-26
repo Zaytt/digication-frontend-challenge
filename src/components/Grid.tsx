@@ -35,7 +35,7 @@ const Grid = (props: GridProps) => {
       ))}
 
       {/* Rows */}
-      {[...Array(numRows)].map((v, index) => (
+      {[...Array(numRows)].map((_v, index) => (
         <Box
           key={index}
           height={GUTTER_SIZE}
